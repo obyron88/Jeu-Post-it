@@ -12,7 +12,7 @@
 **Bonus** 
 * Ajouter un colorpicker pour choisir les couleurs et modifier la palette
 
-* Charger une image ()modèle à réaliser)
+* Charger une image (modèle à réaliser)
 
 
 

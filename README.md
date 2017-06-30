@@ -9,7 +9,7 @@
 * 2 - Créer une palette de couleurs à glisser (Javascript/Jquery)
 
 
-**Bonous** 
+**Bonus** 
 * Ajouter un colorpicker pour choisir les couleurs et modifier la palette
 
 * Charger une image ()modèle à réaliser)

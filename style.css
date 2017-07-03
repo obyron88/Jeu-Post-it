@@ -1,0 +1,47 @@
+body{
+  background-color: #DDDDDD;
+}
+#dropHere {
+    background-color: black;
+    height: 576px;
+    width: 576px;
+}
+.unit {
+    background-color: #C5C5C5;
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+    float: left;
+}
+.dragImg {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+}
+#noir{
+  background-color: black;
+}
+#blanc{
+  background-color: white;
+}
+#vert {
+  background-color: green;
+}
+#marron{
+  background-color: brown;
+}
+#rouge{
+  background-color: red;
+}
+#jaune{
+  background-color: yellow;
+}
+#bleu{
+  background-color: blue;
+}
+#orange{
+  background-color: orange;
+}
+#violet{
+  background-color: purple;
+}
